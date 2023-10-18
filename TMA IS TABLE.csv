@@ -16,7 +16,7 @@ Azimuth Cable Wrap CW travel limit;TMA-D-13;S; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 Azimuth Cable Wrap CCW travel limit;TMA-D-14;S; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 Inserted Elevation Locking Pins;TMA-D-15; ;N; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 Test Position Elevation Locking Pins;TMA-D-16; ; ; ; ; ; ; ;N;N; ; ; ; ; ; ; ; ;
-Retracted Elevation Locking Pins;TMA-D-17; ; ; ; ;N; ; ;N;N; ; ; ; ; ; ; ; ;
+Retracted Elevation Locking Pins;TMA-D-17; ; ; ; ; ; ; ;N;N; ; ; ; ; ; ; ; ;
 Azimuth Platform Hatch NO closed;TMA-D-18;S(5);S(5); ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 Access door ladder NO parked;TMA-D-19;S(4); ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 Central Section  Hatches NO closed;TMA-D-20;S(5);S(5); ; ;R(5); ; ; ; ; ; ; ; ; ; ; ; ;

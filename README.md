@@ -31,3 +31,8 @@ List of abbreviation:
 | GIS      | Global Interlock System    |
 | OSS      | Oil Supply System          |
 | STO      | Safe Torque Off            |
+
+Unexplained fields of the table:
+
+- *TMA-D-#*: stands for the list of detection (cause) just numbering them starting at 1
+- *TMA-A-#* stands for the list of actuation (effects) just numbering them starting at 1
